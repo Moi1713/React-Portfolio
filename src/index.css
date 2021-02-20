@@ -4,7 +4,7 @@
 @import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
 
 .cursive {
-  font-family: "Amatic SC", cursive;
+  font-family: "Helvetica", cursive;
   font-weight: 700;
 }
 
